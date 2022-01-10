@@ -23,7 +23,7 @@ require (
 	github.com/prometheus-operator/prometheus-operator/pkg/client v0.51.2
 	github.com/prometheus/alertmanager v0.23.0
 	github.com/prometheus/client_golang v1.11.0
-	github.com/prometheus/common v0.30.0
+	github.com/prometheus/common v0.32.1
 	github.com/prometheus/prometheus v1.8.2-0.20210914090109-37468d88dce8
 	github.com/stretchr/testify v1.7.0
 	github.com/thanos-io/thanos v0.23.0
