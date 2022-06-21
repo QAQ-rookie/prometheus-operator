@@ -22,8 +22,8 @@ require (
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.51.2
 	github.com/prometheus-operator/prometheus-operator/pkg/client v0.51.2
 	github.com/prometheus/alertmanager v0.23.0
-	github.com/prometheus/client_golang v1.11.0
-	github.com/prometheus/common v0.30.0
+	github.com/prometheus/client_golang v1.12.1
+	github.com/prometheus/common v0.35.0
 	github.com/prometheus/prometheus v1.8.2-0.20210914090109-37468d88dce8
 	github.com/stretchr/testify v1.7.0
 	github.com/thanos-io/thanos v0.23.0
@@ -75,13 +75,13 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/jpillora/backoff v1.0.0 // indirect
-	github.com/json-iterator/go v1.1.11 // indirect
+	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/moby/spdystream v0.2.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
+	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
@@ -89,7 +89,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common/sigv4 v0.1.0 // indirect
-	github.com/prometheus/procfs v0.6.0 // indirect
+	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/spf13/cobra v1.1.3 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/uber/jaeger-client-go v2.29.1+incompatible // indirect
@@ -98,11 +98,11 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/goleak v1.1.10 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
-	golang.org/x/net v0.0.0-20210903162142-ad29c8ab022f // indirect
-	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f // indirect
-	golang.org/x/sys v0.0.0-20210906170528-6f6e22806c34 // indirect
-	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
+	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b // indirect
+	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
+	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
+	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
 	golang.org/x/tools v0.1.5 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
